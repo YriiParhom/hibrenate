@@ -2,8 +2,7 @@ package ru.netology.hibernate.model;
 
 import lombok.*;
 
-import javax.persistence.EmbeddedId;
-import javax.persistence.Entity;
+import javax.persistence.*;
 
 
 @Data
